@@ -1,0 +1,19 @@
+{
+  "name": "js-nodereact-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nessavs/JS-NodeReact-Server.git"
+  },
+  "author": "Vanessa da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nessavs/JS-NodeReact-Server/issues"
+  },
+  "homepage": "https://github.com/Nessavs/JS-NodeReact-Server#readme"
+}
